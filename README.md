@@ -1,21 +1,21 @@
 # ContinuousIntegration
-±¾ÏîÄ¿ÓÃÓÚ³ÖÐø¼¯³ÉÊµ¼ù¹ý³ÌÖÐÕûÀí³öÀ´µÄÏà¹ØÎÄµµ¡¢Ë¼Â·¼°²úÉúµÄ½Å±¾
+æœ¬é¡¹ç›®ç”¨äºŽæŒç»­é›†æˆå®žè·µè¿‡ç¨‹ä¸­æ•´ç†å‡ºæ¥çš„ç›¸å…³æ–‡æ¡£ã€æ€è·¯åŠäº§ç”Ÿçš„è„šæœ¬
 
-¹ý³Ì£¨½×¶Î£©
-Í£web·þÎñÆ÷
-¸üÐÂÏîÄ¿´úÂë
-±àÒë¼°´ò°ü
-²¿Êðµ½web·þÎñÆ÷
-Æô¶¯web·þÎñÆ÷
+è¿‡ç¨‹ï¼ˆé˜¶æ®µï¼‰
+åœwebæœåŠ¡å™¨
+æ›´æ–°é¡¹ç›®ä»£ç 
+ç¼–è¯‘åŠæ‰“åŒ…
+éƒ¨ç½²åˆ°webæœåŠ¡å™¨
+å¯åŠ¨webæœåŠ¡å™¨
 
-Version:×î¼òÂª°æ
-Ê¹ÓÃshell½Å±¾²¿ÊðÒ»¸öÏîÄ¿
+Version:æœ€ç®€é™‹ç‰ˆ
+ä½¿ç”¨shellè„šæœ¬éƒ¨ç½²ä¸€ä¸ªé¡¹ç›®
 
-Version£ºÊ¹ÓÃÊä³öÐÅÏ¢
-ÔÚshell½Å±¾²¿Êð¶à¸öÏîÄ¿£¬ÆäÖÐÒ»Ð©ÏîÄ¿ÓÐÒÀÀµ¹ØÏµ£¬Ê¹ÓÃÊä³öÐÅÏ¢Ê¹²Ù×÷ÈËÔ±ÇåÎúµØÁË½âµ½µ±Ç°²¿Êð½ø¶È
+Versionï¼šä½¿ç”¨è¾“å‡ºä¿¡æ¯
+åœ¨shellè„šæœ¬éƒ¨ç½²å¤šä¸ªé¡¹ç›®ï¼Œå…¶ä¸­ä¸€äº›é¡¹ç›®æœ‰ä¾èµ–å…³ç³»ï¼Œä½¿ç”¨è¾“å‡ºä¿¡æ¯ä½¿æ“ä½œäººå‘˜æ¸…æ™°åœ°äº†è§£åˆ°å½“å‰éƒ¨ç½²è¿›åº¦
 
-Version£ºÊ¹ÓÃant»òÕßmaven
+Versionï¼šä½¿ç”¨antæˆ–è€…maven
 
-Version£º½«½Å±¾³éÏó»¯£¬½«Ã¿¸öÏîÄ¿¸öÐÔµÄÄÚÈÝÒÆ¶¯µ½ÅäÖÃÎÄ¼þ
+Versionï¼šå°†è„šæœ¬æŠ½è±¡åŒ–ï¼Œå°†æ¯ä¸ªé¡¹ç›®ä¸ªæ€§çš„å†…å®¹ç§»åŠ¨åˆ°é…ç½®æ–‡ä»¶
 
-Version£º½«¶à¸öÏîÄ¿¹«¹²µÄÅäÖÃÊý¾ÝÒÆ¶¯µ½ÅäÖÃÖÐÐÄ
+Versionï¼šå°†å¤šä¸ªé¡¹ç›®å…¬å…±çš„é…ç½®æ•°æ®ç§»åŠ¨åˆ°é…ç½®ä¸­å¿ƒ
